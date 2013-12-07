@@ -12,7 +12,7 @@ public class Test1 {
 		
 		String gender = "male";
 		
-		
+		System.out.println();
 		String address= "北京市通州区通州新城东里16号楼452室";
 	}
 
