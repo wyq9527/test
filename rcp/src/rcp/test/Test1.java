@@ -11,6 +11,7 @@ public class Test1 {
 		String faviourite= "sing";
 		
 		String gender = "male";
+		
 	}
 
 }
