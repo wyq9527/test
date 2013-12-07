@@ -12,6 +12,8 @@ public class Test1 {
 		
 		String gender = "male";
 		
+		
+		String address= "";
 	}
 
 }
