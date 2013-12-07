@@ -9,6 +9,8 @@ public class Test1 {
 		String id = "9527";
 		
 		String faviourite= "sing";
+		
+		String gender = "male";
 	}
 
 }
