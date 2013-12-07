@@ -7,6 +7,8 @@ public class Test1 {
 		String name = "wangyq";
 		
 		String id = "9527";
+		
+		String faviourite= "sing";
 	}
 
 }
