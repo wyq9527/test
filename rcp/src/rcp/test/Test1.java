@@ -13,7 +13,7 @@ public class Test1 {
 		String gender = "male";
 		
 		
-		String address= "北京市通州区通州新城东里16号楼452室;
+		String address= "北京市通州区通州新城东里16号楼452室";
 	}
 
 }
